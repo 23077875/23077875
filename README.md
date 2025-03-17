@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**23077875/23077875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github.com/[your-username]/[your-username]/blob/main/profile-image.png" width="200" height="200" style="border-radius:50%;" alt="Profile Image"/>
+</div>
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software engineer with a passion for low-level programming and a solid background in enterprise development. I thrive on understanding systems from the ground up and developing efficient, scalable solutions.
+
+- 🐧 Linux enthusiast and daily driver
+- ⚙️ Fascinated by low-level programming and system internals
+- 🏢 Enterprise experience with C# .NET Core microservices
+- 🐰 RabbitMQ implementation specialist
+- 🔍 Always digging deeper to understand how things really work
+
+## 🛠️ Tech Stack
+
+```
+┌───────────────────────────────────────────────┐
+│                                               │
+│   Languages:  C, C++, C#, Assembly, Bash      │
+│   Platforms:  Linux, Windows, Docker          │
+│   Backend:    .NET Core, ASP.NET              │
+│   DevOps:     CI/CD, GitLab, GitHub Actions   │
+│   Messaging:  RabbitMQ, Kafka                 │
+│   Databases:  SQL Server, PostgreSQL          │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+## 🔭 Current Focus
+
+I'm currently exploring kernel development and embedded systems programming to further deepen my understanding of computer systems at their most fundamental levels.
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/[your-profile])
+- [Twitter](https://twitter.com/[your-handle])
+- [Email](mailto:[your-email])
+
+---
+
+<div align="center">
+  <i>"Understanding the underlying principles makes everything else clearer."</i>
+</div>
