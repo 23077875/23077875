@@ -33,18 +33,4 @@ Software engineer with a passion for low-level programming and a solid backgroun
 
 I'm currently exploring kernel development and embedded systems programming to further deepen my understanding of computer systems at their most fundamental levels.
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark)
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/[your-profile])
-- [Twitter](https://twitter.com/[your-handle])
-- [Email](mailto:[your-email])
-
----
-
-<div align="center">
-  <i>"Understanding the underlying principles makes everything else clearer."</i>
-</div>
