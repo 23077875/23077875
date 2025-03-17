@@ -1,7 +1,7 @@
 # Hello, I'm Zohaib 👋
 
 <div align="center">
-  <img src="https://github.com/[your-username]/[your-username]/blob/main/profile-image.png" width="200" height="200" style="border-radius:50%;" alt="Profile Image"/>
+  <img src="profile.jpeg" width="200" height="200" style="border-radius:50%;" alt="Profile Image"/>
 </div>
 
 ## 💻 About Me
